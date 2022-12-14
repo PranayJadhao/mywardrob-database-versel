@@ -1,9 +1,341 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      },
+      {
+        "id": 2,
+        "name": "Gail Newbatt",
+        "age": 53,
+        "email": "gnewbatt1@un.org"
+      },
+      {
+        "id": 3,
+        "name": "Walliw Wilstead",
+        "age": 49,
+        "email": "wwilstead2@tripadvisor.com"
+      },
+      {
+        "id": 4,
+        "name": "Abran Proback",
+        "age": 29,
+        "email": "aproback3@theglobeandmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Roda Chappelow",
+        "age": 31,
+        "email": "rchappelow4@oaic.gov.au"
+      },
+      {
+        "id": 6,
+        "name": "Karney Wylie",
+        "age": 22,
+        "email": "kwylie5@miitbeian.gov.cn"
+      },
+      {
+        "id": 7,
+        "name": "Cammi Pimbley",
+        "age": 63,
+        "email": "cpimbley6@nyu.edu"
+      },
+      {
+        "id": 8,
+        "name": "Gavra Manning",
+        "age": 43,
+        "email": "gmanning7@lycos.com"
+      },
+      {
+        "id": 9,
+        "name": "Zachary Seward",
+        "age": 45,
+        "email": "zseward8@oracle.com"
+      },
+      {
+        "id": 10,
+        "name": "Chucho Norssister",
+        "age": 20,
+        "email": "cnorssister9@mayoclinic.com"
+      }
+    ],
+
+
+    "Product_array":[
+      {     "img":"https://files.myglamm.com/site-images/800x800/Lststr-1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/combo-of-2-myglamm-lit-satin-matte-lipstick.html",
+        "product-name": "Combo of 2 MyGlamm LIT Satin Matte Lipstick - Lipsticks",
+        "short-des": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
+        "offer-price": "₹990",
+        "shade-count": "",
+        "actual-price": ""
+      },
+      {"img":"https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_2.jpg",
+        "collection-box href": "https://www.myglamm.com/product/popxo-makeup-no-drama-3-color-mini-lipstick-set.html",
+        "product-name": "POPxo Makeup - Mini Lip Kit - Lipsticks",
+        "short-des": "Mini Lipstick kit with 3 creamy-matte nude lipsticks",
+        "offer-price": "₹219",
+        "shade-count": "5 Shades",
+        "actual-price": "₹349"
+      },
+      {   "img": "https://files.myglamm.com/site-images/800x800/Flirtini_6.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-creamy-matte-lipstick-flirtini.html",
+        "product-name": "LIT Creamy Matte Lipstick - Lipsticks",
+        "short-des": "Precision Perfect Matte Slimstick",
+        "offer-price": "₹417",
+        "shade-count": "17 Shades",
+        "actual-price": "₹595"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/Melon-Squeeze-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/kplay-flavoured-lipstick-melon-squeeze.html",
+        "product-name": "K.Play Flavoured Lipstick - Lipsticks",
+        "short-des": "Melon Flavoured Vitamin E-enriched Creamy Lipstick",
+        "offer-price": "₹382",
+        "shade-count": "12 Shades",
+        "actual-price": "₹545"
+      },
+      { "img":"https://files.myglamm.com/site-images/800x800/Hott-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-hot-hottie.html",
+        "product-name": "LIT Liquid Matte Lipstick - Lipsticks",
+        "short-des": "Moringa Oil Enriched Matte Lipstick",
+        "offer-price": "₹395",
+        "shade-count": "100 Shades",
+        "actual-price": ""
+      },
+      { "img":"https://files.myglamm.com/site-images/800x800/OLR1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/manish-malhotra-hi-shine-lipstick-old-rose.html",
+        "product-name": "Manish Malhotra Hi-Shine Lipstick - Lipsticks",
+        "short-des": "Lightweight, Long-wear Lipsticks",
+        "offer-price": "₹665",
+        "shade-count": "24 Shades",
+        "actual-price": "₹950"
+      },
+      { "img":"https://files.myglamm.com/site-images/800x800/OBS1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/manish-malhotra-liquid-matte-lipstick-obsession.html",
+        "product-name": "Manish Malhotra Liquid Matte Lipstick - Lipsticks",
+        "short-des": "Long-stay Velvet Matte Lip Colour",
+        "offer-price": "₹796",
+        "shade-count": "19 Shades",
+        "actual-price": "₹995"
+      },
+      { "img":"https://files.myglamm.com/site-images/800x800/Lststr-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-satin-matte-lipstick-lust-stories.html",
+        "product-name": "LIT Satin Matte Lipstick - Lipsticks",
+        "short-des": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
+        "offer-price": "₹297",
+        "shade-count": "19 Shades",
+        "actual-price": "₹495"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/RMR1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/manish-malhotra-soft-matte-lipstick-romantic-rouge.html",
+        "product-name": "Manish Malhotra Soft Matte Lipstick - Lipsticks",
+        "short-des": "Hydrating Long-wear Lipstick",
+        "offer-price": "₹665",
+        "shade-count": "17 Shades",
+        "actual-price": "₹950"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/NDB1_1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/utlimatte-long-stay-matte-liquid-lipstick-nude-bombshell.html",
+        "product-name": "Ultimatte Long Lasting Liquid Lipstick - Lipsticks",
+        "short-des": "Vitamin E Enriched Non-Drying Formula | Up To 8 Hours Stay",
+        "offer-price": "₹479",
+        "shade-count": "14 Shades",
+        "actual-price": "₹599"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/PechPnk-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/pose-hd-lipstick-peach-pink.html",
+        "product-name": "POSE HD Lipstick - Lipsticks",
+        "short-des": "HD Long-wear Matte Lipstick",
+        "offer-price": "₹599",
+        "shade-count": "19 Shades",
+        "actual-price": ""
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/sq-(1).png",
+        "collection-box href": "https://www.myglamm.com/product/everyday-glamm.html",
+        "product-name": "Everyday Glamm - Lipsticks",
+        "short-des": "A gift set of an intense black kajal & yummy caramel brown lipstick @₹499!",
+        "offer-price": "₹513",
+        "shade-count": "",
+        "actual-price": "₹790"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/Promiscious-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/ultimatte-long-stay-matte-lipstick-promiscuous.html",
+        "product-name": "Ultimatte Long-Stay Matte Lipstick - Lipsticks",
+        "short-des": "Hyaluronic Acid-enriched, Moisturising, Matte Slim Lipstick",
+        "offer-price": "₹489",
+        "shade-count": "11 Shades",
+        "actual-price": "₹699"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/stargazer-7.jpeg",
+        "collection-box href": "https://www.myglamm.com/product/lit-2-in-1-liquid-matte-lipstick-stargazer.html",
+        "product-name": "LIT 2 in 1 Liquid Matte Lipstick - Lipsticks",
+        "short-des": "Intense, transfer-proof, long-lasting liquid lipstick duos",
+        "offer-price": "₹349",
+        "shade-count": "11 Shades",
+        "actual-price": "₹545"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/Lststr-2-1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-satin-matte-lipstick-flat-price.html",
+        "product-name": "LIT Satin Matte Lipstick Flat Price - Lipsticks",
+        "short-des": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
+        "offer-price": "₹495",
+        "shade-count": "",
+        "actual-price": ""
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/PRTP.jpg",
+        "collection-box href": "https://www.myglamm.com/product/myglamm-party-ready-pout-lip-combo.html",
+        "product-name": "MyGlamm Party Ready Pout – Lip Combo - Lipsticks",
+        "short-des": "Set Of 2 Satin Matte Lipsticks",
+        "offer-price": "₹549",
+        "shade-count": "",
+        "actual-price": "₹990"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/JOMO-cop.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-set-of-4.html",
+        "product-name": "LIT Liquid Matte Lipstick Set Of 4 - Lipsticks",
+        "short-des": "Moringa Oil Enriched Matte Lipstick",
+        "offer-price": "₹869",
+        "shade-count": "",
+        "actual-price": "₹1,580"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/Thku-(1)_3.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-velvet-matte-liquid-lipstick-superfoods-kajal.html",
+        "product-name": "LIT Velvet Matte Liquid Lipstick + SUPERFOODS Kajal - Lipsticks",
+        "short-des": "Hydrating, Velvet Matte Liquid Lipcolour & Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+        "offer-price": "₹513",
+        "shade-count": "",
+        "actual-price": "₹790"
+      },
+      { "img":"https://files.myglamm.com/site-images/800x800/Kuwtk-(1)-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-satin-matte-lipstick-lit-matte-lipliner-pencil.html",
+        "product-name": "LIT Satin Matte Lipstick + LIT Matte Lipliner Pencil - Lipsticks",
+        "short-des": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff & Intensely Pigmented, Defining Lipliner",
+        "offer-price": "₹611",
+        "shade-count": "",
+        "actual-price": "₹940"
+      },
+      {    "img":"https://files.myglamm.com/site-images/800x800/org-(1)-1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/kplay-flavoured-lipstick-set-of-2.html",
+        "product-name": "K.Play Flavoured Lipstick Set Of 2 - Lipsticks",
+        "short-des": "Orange Flavoured Vitamin E-enriched Creamy Lipstick",
+        "offer-price": "₹599",
+        "shade-count": "",
+        "actual-price": "₹1,090"
+      },
+      {    "img":"https://files.myglamm.com/site-images/800x800/re1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-superfoods-kajal.html",
+        "product-name": "LIT Liquid Matte Lipstick + SUPERFOODS Kajal - Lipsticks",
+        "short-des": "Moringa Oil Enriched Matte Lipstick & Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+        "offer-price": "₹513",
+        "shade-count": "",
+        "actual-price": "₹790"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/ORGLG-(1)-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/kplay-flavoured-lipgloss-kplay-flavoured-lipstick.html",
+        "product-name": "K.Play Flavoured Lipgloss + K.Play Flavoured Lipstick - Lipsticks",
+        "short-des": "Vitamin E Enriched High Shine Lipgloss & Vitamin E-enriched Creamy Lipstick",
+        "offer-price": "₹627",
+        "shade-count": "",
+        "actual-price": "₹1,140"
+      },
+      {      "img":"https://files.myglamm.com/site-images/800x800/LB-FB-copy_2.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-superfoods-kajal-lit-velvet-matte-liquid-lipstick.html",
+        "product-name": "LIT Liquid Matte Lipstick + SUPERFOODS Kajal + LIT Velvet Matte Liquid Lipstick - Lipsticks",
+        "short-des": "Moringa Oil Enriched Matte Lipstick & Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts & Hydrating, Velvet Matte Liquid Lipcolour",
+        "offer-price": "₹651",
+        "shade-count": "",
+        "actual-price": "₹1,185"
+      },
+      {    "img":"https://files.myglamm.com/site-images/800x800/Kuwtk-(1)-(1)_2.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-velvet-matte-liquid-lipstick-lit-satin-matte-lipstick-lit-creamy-matte-lipstick.html",
+        "product-name": "LIT Velvet Matte Liquid Lipstick + LIT Satin Matte Lipstick + LIT Creamy Matte Lipstick - Lipsticks",
+        "short-des": "LIT Velvet Matte Liquid Lipstick + LIT Satin Matte Lipstick + LIT Creamy Matte Lipstick",
+        "offer-price": "₹816",
+        "shade-count": "",
+        "actual-price": "₹1,485"
+      },
+      {    "img":"https://files.myglamm.com/site-images/800x800/LB-FB-copy_1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-lit-velvet-matte-liquid-lipstick.html",
+        "product-name": "LIT Liquid Matte Lipstick + LIT Velvet Matte Liquid Lipstick - Lipsticks",
+        "short-des": "Moringa Oil Enriched Matte Lipstick & Hydrating, Velvet Matte Liquid Lipcolour",
+        "offer-price": "₹513",
+        "shade-count": "",
+        "actual-price": "₹790"
+      },
+      {  "img":"https://files.myglamm.com/site-images/800x800/W-L-1-1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-lit-velvet-matte-liquid-lipstick-lit-satin-matte-lipstick.html",
+        "product-name": "LIT Liquid Matte Lipstick + LIT Velvet Matte Liquid Lipstick + LIT Satin Matte Lipstick - Lipsticks",
+        "short-des": "LIT Liquid Matte Lipstick + LIT Velvet Matte Liquid Lipstick + LIT Satin Matte Lipstick",
+        "offer-price": "₹706",
+        "shade-count": "",
+        "actual-price": "₹1,285"
+      },
+      {    "img":"https://files.myglamm.com/site-images/800x800/Tea-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/clean-beauty-cocoa-butter-lip-and-cheek-pencil-tea-rose.html",
+        "product-name": "Clean Beauty Cocoa Butter Lip & Cheek Pencil - Lipsticks",
+        "short-des": "Moisturising and Nourishing 2 in 1 Lip & Cheek Jumbo Pencil",
+        "offer-price": "₹474",
+        "shade-count": "1 Shade",
+        "actual-price": "₹790"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/Mai-tai-with-Swatch.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-creamy-matte-lipstick-set-of-2.html",
+        "product-name": "LIT Creamy Matte Lipstick Set Of 2 - Lipsticks",
+        "short-des": "Precision Perfect Matte Slimstick",
+        "offer-price": "₹654",
+        "shade-count": "",
+        "actual-price": "₹1,190"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/Kuwtk-(1)-(1)_4.jpg",
+        "collection-box href": "https://www.myglamm.com/product/lit-satin-matte-lipstick-lit-creamy-matte-lipstick-ultimatte-long-stay-matte-lipstick.html",
+        "product-name": "LIT Satin Matte Lipstick + LIT Creamy Matte Lipstick + Ultimatte Long-Stay Matte Lipstick - Lipsticks",
+        "short-des": "LIT Satin Matte Lipstick + LIT Creamy Matte Lipstick + Ultimatte Long-Stay Matte Lipstick",
+        "offer-price": "₹983",
+        "shade-count": "",
+        "actual-price": "₹1,789"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/Possessed-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/butterlicious-possessed.html",
+        "product-name": "Butterlicious - Lipsticks",
+        "short-des": "Shea Butter Creamy Matte Lipstick",
+        "offer-price": "₹537",
+        "shade-count": "3 Shades",
+        "actual-price": "₹895"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/indulgence--6.jpeg",
+        "collection-box href": "https://www.myglamm.com/product/manish-malhotra-metallic-lipstick-indulgence.html",
+        "product-name": "Manish Malhotra Metallic Lipstick - Lipsticks",
+        "short-des": "Limited Edition Metallic Matte Lipstick",
+        "offer-price": "₹735",
+        "shade-count": "3 Shades",
+        "actual-price": "₹1,050"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/Aphrodite-(1).jpg",
+        "collection-box href": "https://www.myglamm.com/product/molten-matte-metallic-liquid-lipstick-aphrodite.html",
+        "product-name": "Molten Matte Metallic Liquid Lipstick - Lipsticks",
+        "short-des": "Molten Matte Liquid Lipstick",
+        "offer-price": "₹419",
+        "shade-count": "6 Shades",
+        "actual-price": "₹645"
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/GCode-1_1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/myglamm-lit-liquid-matte-lipstick-and-lit-creamy-matte-lipstick-dec-survey.html",
+        "product-name": "MyGlamm LIT Liquid Matte Lipstick and LIT Creamy Matte Lipstick - Lipsticks",
+        "short-des": "Moringa Oil Enriched Matte Lipstick & Precision Perfect Matte Slimstick",
+        "offer-price": "₹990",
+        "shade-count": "",
+        "actual-price": ""
+      },
+      {   "img":"https://files.myglamm.com/site-images/800x800/TheAffair-1.jpg",
+        "collection-box href": "https://www.myglamm.com/product/myglamm-lit-satin-matte-lipstick-and-superfoods-kajal-390-nxo-dec-survey.html",
+        "product-name": "MyGlamm LIT Satin Matte Lipstick and SUPERFOODS Kajal  @ 390 - Lipsticks",
+        "short-des": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff & Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+        "offer-price": "₹890",
+        "shade-count": "",
+        "actual-price": ""
+      }
+    ]
+    
+  }
