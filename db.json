@@ -380,45 +380,45 @@
           "collection-box href": "https://www.myglamm.com/product/combo-of-2-myglamm-lit-satin-matte-lipstick.html",
           "productName": "Combo of 2 MyGlamm LIT Satin Matte Lipstick - Lipsticks",
           "shortDes": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
-          "offerPrice": "₹990",
+          "offerPrice": 990,
           "shadeCount": "",
-          "actualPrice": "1038"
+          "actualPrice": 1038
         },
         { "id":2,
           "image":"https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_2.jpg",
           "collection-box href": "https://www.myglamm.com/product/popxo-makeup-no-drama-3-color-mini-lipstick-set.html",
           "productName": "POPxo Makeup - Mini Lip Kit - Lipsticks",
           "shortDes": "Mini Lipstick kit with 3 creamy-matte nude lipsticks",
-          "offerPrice": "₹219",
+          "offerPrice": 219,
           "shadeCount": "5 Shades",
-          "actualPrice": "349"
+          "actualPrice": 349
         },
         {  "id":3,
            "image": "https://files.myglamm.com/site-images/800x800/Flirtini_6.jpg",
           "collection-box href": "https://www.myglamm.com/product/lit-creamy-matte-lipstick-flirtini.html",
           "productName": "LIT Creamy Matte Lipstick - Lipsticks",
           "shortDes": "Precision Perfect Matte Slimstick",
-          "offerPrice": "₹417",
+          "offerPrice": 417,
           "shadeCount": "17 Shades",
-          "actualPrice": "595"
+          "actualPrice": 595
         },
         { "id":4,
             "image":"https://files.myglamm.com/site-images/800x800/Melon-Squeeze-(1).jpg",
           "collection-box href": "https://www.myglamm.com/product/kplay-flavoured-lipstick-melon-squeeze.html",
           "productName": "K.Play Flavoured Lipstick - Lipsticks",
           "shortDes": "Melon Flavoured Vitamin E-enriched Creamy Lipstick",
-          "offerPrice": "₹382",
+          "offerPrice": 382,
           "shadeCount": "12 Shades",
-          "actualPrice": "545"
+          "actualPrice": 545
         },
         { "id":5,
            "image":"https://files.myglamm.com/site-images/800x800/Hott-(1).jpg",
           "collection-box href": "https://www.myglamm.com/product/lit-liquid-matte-lipstick-hot-hottie.html",
           "productName": "LIT Liquid Matte Lipstick - Lipsticks",
           "shortDes": "Moringa Oil Enriched Matte Lipstick",
-          "offerPrice": "₹395",
+          "offerPrice": 395,
           "shadeCount": "100 Shades",
-          "actualPrice": "633"
+          "actualPrice": 633
         }    
       ]
       
