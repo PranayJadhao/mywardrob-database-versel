@@ -382,7 +382,7 @@
           "shortDes": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
           "offerPrice": "₹990",
           "shadeCount": "",
-          "actualPrice": "₹1,038"
+          "actualPrice": "1038"
         },
         { "id":2,
           "image":"https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_2.jpg",
@@ -391,7 +391,7 @@
           "shortDes": "Mini Lipstick kit with 3 creamy-matte nude lipsticks",
           "offerPrice": "₹219",
           "shadeCount": "5 Shades",
-          "actualPrice": "₹349"
+          "actualPrice": "349"
         },
         {  "id":3,
            "image": "https://files.myglamm.com/site-images/800x800/Flirtini_6.jpg",
@@ -400,7 +400,7 @@
           "shortDes": "Precision Perfect Matte Slimstick",
           "offerPrice": "₹417",
           "shadeCount": "17 Shades",
-          "actualPrice": "₹595"
+          "actualPrice": "595"
         },
         { "id":4,
             "image":"https://files.myglamm.com/site-images/800x800/Melon-Squeeze-(1).jpg",
@@ -409,7 +409,7 @@
           "shortDes": "Melon Flavoured Vitamin E-enriched Creamy Lipstick",
           "offerPrice": "₹382",
           "shadeCount": "12 Shades",
-          "actualPrice": "₹545"
+          "actualPrice": "545"
         },
         { "id":5,
            "image":"https://files.myglamm.com/site-images/800x800/Hott-(1).jpg",
@@ -418,7 +418,7 @@
           "shortDes": "Moringa Oil Enriched Matte Lipstick",
           "offerPrice": "₹395",
           "shadeCount": "100 Shades",
-          "actualPrice": "₹633"
+          "actualPrice": "633"
         }    
       ]
       
