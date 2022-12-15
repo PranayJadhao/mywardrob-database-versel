@@ -1,7 +1,5 @@
 {
-  "data":[
-    {
-      "users": [
+  "users": [
         {
           "id": 1,
           "name": "Gertrudis Tatterton",
@@ -421,9 +419,6 @@
           "actualPrice": 633
         }    
       ]
-      
-    }
-  ]
 }
 
 
